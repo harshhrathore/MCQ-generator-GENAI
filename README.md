@@ -63,5 +63,5 @@ https://user-images.githubusercontent.com/83747548/234657453-7f40c25c-8c90-4a05-
 
 ## Author
 
-- Linkedin - [Rauneet Singh](https://www.linkedin.com/in/harshrathore26/)
+- Linkedin - [Harsh Rathore](https://www.linkedin.com/in/harshrathore26/)
 - Email - harshhrathore26@gmail.com
